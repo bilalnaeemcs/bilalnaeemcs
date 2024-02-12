@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Bilal Naeem! 👨‍💻
+# Hello, I'm [Bilal Naeem](https://bilalnaeem.netlify.app)! 👨‍💻
 
 Welcome to my GitHub profile! I'm a Computer Science enthusiast with a Master's from Purdue University and a Bachelor's from LUMS. My passion lies in finding efficient and effective solutions to complex and interesting problems. Here, you'll find the projects I've poured my heart and soul into, ranging from virtualization innovations to developing secure, efficient software systems.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science enthusiast with a Master's 
 ## 💡 Projects
 Below are some highlights of my work. Feel free to dive in and explore!
 
-- **[HyperODF](/hyperodf)**: A groundbreaking project that reduced VM clone time by 98%, making cloud computing more efficient than ever.
+- **[HyperODF](https://github.com/martianbilal/hyperodf)**: A groundbreaking project that reduced VM clone time by 98%, making cloud computing more efficient than ever.
 - **[Recollect](/recollect)**: My innovative system boosts AFLGo's efficiency by 9-200x, making software debugging a breeze.
 - **[Madadgaar](/madadgaar)**: A platform connecting blood donors with recipients, showcasing my commitment to social good.
 
@@ -18,8 +18,7 @@ Below are some highlights of my work. Feel free to dive in and explore!
 
 
 ## 🌟 Highlights
-- **[academic-kickstart](/academic-kickstart)**: Discover my portfolio website and journey in tech.
-- **[llvm-examples](/llvm-examples)**: A collection of LLVM code samples showcasing my exploration of compiler internals.
+- **[llvm-examples](https://github.com/martianbilal/llvm-examples)**: A collection of LLVM code samples showcasing my exploration of compiler internals.
 - **[martianbilal.github.io](/martianbilal.github.io)**: My blog where I share insights, tutorials, and everything in between.
 
 ## 📫 Get in Touch
