@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a Computer Science enthusiast with a Master's 
 ## 💡 Projects
 Below are some highlights of my work. Feel free to dive in and explore!
 
-- **[HyperODF](https://github.com/martianbilal/hyperodf)**: Reduces VM clone time by 98%, making cloud computing much more efficient. It includes changes to Linux Kernel, QEMU/KVM, and Kata Containers.
-- - **[kvmhost-fork](https://github.com/martianbilal/kvm-host-fork)**: Implements a VM fork mechanism similar to HyperODF, but tailored for KVMHost, a simpler hypervisor. This project is ideal for testing, prototyping, and playing with virtualization technology.
+- **[HyperODF](https://github.com/martianbilal/hyperodf)**: Reduces VM clone time by 98%, making cloud computing much more efficient. It includes changes to the Linux Kernel, QEMU/KVM, and Kata Containers.
+- **[kvmhost-fork](https://github.com/martianbilal/kvm-host-fork)**: Implements a VM fork mechanism similar to HyperODF, but tailored for KVMHost, a simpler hypervisor. This project is ideal for testing, prototyping, and playing with virtualization technology.
 - **[Recollect](/recollect)**: This innovative system boosts AFLGo's efficiency by 9-200x, making software debugging a breeze.
 
 ## 📊 My GitHub Stats
@@ -15,15 +15,23 @@ Below are some highlights of my work. Feel free to dive in and explore!
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=martianbilal&show_icons=true&count_private=true&theme=radical&include_all_commits=true) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martianbilal&layout=compact&count_private=true&theme=radical&include_all_commits=true)
+_These stats are skewed due to some large C and C++ codebases I worked on._
 
 
-## 🌟 Highlights
-- **[llvm-examples](https://github.com/martianbilal/llvm-examples)**: A collection of LLVM code samples showcasing my exploration of compiler internals.
-- **[martianbilal.github.io](/martianbilal.github.io)**: My blog where I share insights, tutorials, and everything in between.
+## 🌟 Random Interesting stuff
+Here's a sneak peek into some projects that are a mix of brain teasers, productivity hacks, and my digital playground:
+
+- **[LLVM Examples](https://github.com/martianbilal/llvm-examples)**: Ever wonder what goes on under the hood of your C++ code? Me too!
+- **[TwoX OneDrive](https://github.com/martianbilal/twox_onedrive)**: This Chrome extension based on a simple hack is for 2x-ing my way through lectures. Because who has the time to watch videos at normal speed?
+- **[DHT Peer-to-Peer Content Sharing](https://github.com/martianbilal/DHT)**: This project is my take on a DHT-based peer-to-peer content sharing application.
+- **[MartianBilal.github.io](https://github.com/martianbilal/martianbilal.github.io)**: Checkout my personal blog, where I seldom share interesting tips, tricks, and some random opinions.
+
 
 ## 📫 Get in Touch
 - **LinkedIn**: [thebilalnaeem](https://linkedin.com/in/thebilalnaeem)
 - **Email**: [thebilalnaeem@gmail.com](mailto:thebilalnaeem@gmail.com)
+
+Check out more details at my [site](https://bilalnaeem.netlify.app).
 
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's innovate together!
 
