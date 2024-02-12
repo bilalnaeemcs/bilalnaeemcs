@@ -10,6 +10,11 @@ Below are some highlights of my work. Feel free to dive in and explore!
 - **[Recollect](/recollect)**: My innovative system boosts AFLGo's efficiency by 9-200x, making software debugging a breeze.
 - **[Madadgaar](/madadgaar)**: A platform connecting blood donors with recipients, showcasing my commitment to social good.
 
+## 📊 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=martianbilal&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martianbilal&layout=compact&count_private=true&theme=radical)
 
 
 ## 🌟 Highlights
