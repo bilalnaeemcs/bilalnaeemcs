@@ -25,7 +25,7 @@ Here's a sneak peek into some projects that are a mix of brain teasers, producti
 - **[LLVM Examples](https://github.com/martianbilal/llvm-examples)**: Ever wonder what goes on under the hood of your C++ code? Me too!
 - **[TwoX OneDrive](https://github.com/martianbilal/twox_onedrive)**: This Chrome extension based on a simple hack is for 2x-ing my way through lectures. Because who has the time to watch videos at normal speed?
 - **[DHT Peer-to-Peer Content Sharing](https://github.com/martianbilal/DHT)**: This project is my take on a DHT-based peer-to-peer content sharing application.
-- **[MartianBilal.github.io](https://github.com/martianbilal/martianbilal.github.io)**: Checkout my personal blog, where I seldom share interesting tips, tricks, and some random opinions.
+- **[MartianBilal.github.io](https://martianbilal.github.io)**: Checkout my personal blog, where I seldom share interesting tips, tricks, and some random opinions.
 
 
 ## 📫 Get in Touch
