@@ -30,7 +30,7 @@ Here's a sneak peek into some projects that are a mix of brain teasers, producti
 
 ## 📫 Get in Touch
 - **LinkedIn**: [thebilalnaeem](https://linkedin.com/in/thebilalnaeem)
-- **Email**: [thebilalnaeem@gmail.com](mailto:thebilalnaeem@gmail.com)
+- **Email**: [thebilalnaeeem@gmail.com](mailto:thebilalnaeeem@gmail.com)
 
 Check out more details at my [site](https://bilalnaeem.netlify.app).
 
