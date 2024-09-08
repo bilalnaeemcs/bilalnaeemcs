@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a Computer Science enthusiast with a Master's 
 ## 💡 Projects
 Below are some highlights of my work. Feel free to dive in and explore!
 
-- **[HyperODF](https://github.com/martianbilal/hyperodf)**: Reduces VM clone time by 98%, making cloud computing much more efficient. It includes changes to the Linux Kernel, QEMU/KVM, and Kata Containers.
-- **[kvmhost-fork](https://github.com/martianbilal/kvm-host-fork)**: Implements a VM fork mechanism similar to HyperODF, but tailored for KVMHost, a simpler hypervisor. This project is ideal for testing, prototyping, and playing with virtualization technology.
+- **[HyperODF](https://github.com/bilalnaeemcs/hyperodf)**: Reduces VM clone time by 98%, making cloud computing much more efficient. It includes changes to the Linux Kernel, QEMU/KVM, and Kata Containers.
+- **[kvmhost-fork](https://github.com/bilalnaeemcs/kvm-host-fork)**: Implements a VM fork mechanism similar to HyperODF, but tailored for KVMHost, a simpler hypervisor. This project is ideal for testing, prototyping, and playing with virtualization technology.
 - **Recollect**: This innovative system boosts AFLGo's efficiency by 9-200x, making software debugging a breeze.
 
 ## 📊 My GitHub Stats
@@ -22,10 +22,10 @@ _These stats are skewed due to some large C and C++ codebases I worked on._
 ## 🌟 Random Interesting stuff
 Here's a sneak peek into some projects that are a mix of brain teasers, productivity hacks, and my digital playground:
 
-- **[LLVM Examples](https://github.com/martianbilal/llvm-examples)**: Ever wonder what goes on under the hood of your C++ code? Me too!
-- **[TwoX OneDrive](https://github.com/martianbilal/twox_onedrive)**: This Chrome extension based on a simple hack is for 2x-ing my way through lectures. Because who has the time to watch videos at normal speed?
-- **[DHT Peer-to-Peer Content Sharing](https://github.com/martianbilal/DHT)**: This project is my take on a DHT-based peer-to-peer content sharing application.
-- **[MartianBilal.github.io](https://martianbilal.github.io)**: Checkout my personal blog, where I seldom share interesting tips, tricks, and some random opinions.
+- **[LLVM Examples](https://github.com/bilalnaeemcs/llvm-examples)**: Ever wonder what goes on under the hood of your C++ code? Me too!
+- **[TwoX OneDrive](https://github.com/bilalnaeemcs/twox_onedrive)**: This Chrome extension based on a simple hack is for 2x-ing my way through lectures. Because who has the time to watch videos at normal speed?
+- **[DHT Peer-to-Peer Content Sharing](https://github.com/bilalnaeemcs/DHT)**: This project is my take on a DHT-based peer-to-peer content sharing application.
+- **[MartianBilal.github.io](https://bilalnaeemcs.github.io)**: Checkout my personal blog, where I seldom share interesting tips, tricks, and some random opinions.
 
 
 ## 📫 Get in Touch
