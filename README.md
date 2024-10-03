@@ -25,12 +25,12 @@ Here's a sneak peek into some projects that are a mix of brain teasers, producti
 - **[LLVM Examples](https://github.com/bilalnaeemcs/llvm-examples)**: Ever wonder what goes on under the hood of your C++ code? Me too!
 - **[TwoX OneDrive](https://github.com/bilalnaeemcs/twox_onedrive)**: This Chrome extension based on a simple hack is for 2x-ing my way through lectures. Because who has the time to watch videos at normal speed?
 - **[DHT Peer-to-Peer Content Sharing](https://github.com/bilalnaeemcs/DHT)**: This project is my take on a DHT-based peer-to-peer content sharing application.
-- **[MartianBilal.github.io](https://bilalnaeemcs.github.io)**: Checkout my personal blog, where I seldom share interesting tips, tricks, and some random opinions.
+- **[bilalnaeemcs.github.io](https://bilalnaeemcs.github.io)**: Checkout my personal blog, where I seldom share interesting tips, tricks, and some random opinions.
 
 
 ## 📫 Get in Touch
 - **LinkedIn**: [thebilalnaeem](https://linkedin.com/in/thebilalnaeem)
-- **Email**: [thebilalnaeeem@gmail.com](mailto:thebilalnaeeem@gmail.com)
+- **Email**: [bilalnaeemcs@gmail.com](mailto:bilalnaeemcs@gmail.com)
 
 Check out more details at my [site](https://bilalnaeem.netlify.app).
 
